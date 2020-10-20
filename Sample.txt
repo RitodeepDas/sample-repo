@@ -1,5 +1,5 @@
 this is a sample forking and pushing of a text file 
-
+Pull Request means of pulling changes from another branch or fork into your branch and merging the changes with your existing code. It is useful tools for code review and change management.
 
 this is my first commit using git cmd line.
 
